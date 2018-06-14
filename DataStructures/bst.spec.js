@@ -1,6 +1,6 @@
 const {BinarySearchTree} = require('./bst')
 
-describe('A binary search bst', function () {
+describe('A binary search tree', function () {
   let bst, test1
   const valuesToInsert = [15, 75, 5, 17, 21, 1, 14, 15, 16, 55, 67]
 
