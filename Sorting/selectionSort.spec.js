@@ -1,6 +1,6 @@
 const {selectionSort} = require('./selectionSort')
 
-describe('Bubble Sort', function () {
+describe('Selection Sort', function () {
   it('sorts the arrays', function () {
     expect(selectionSort([1])).toEqual([1])
     expect(selectionSort([3, 4, 2, 1, 0])).toEqual([0, 1, 2, 3, 4])

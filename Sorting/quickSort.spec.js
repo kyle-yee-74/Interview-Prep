@@ -1,6 +1,6 @@
 const {quickSort} = require('./quickSort')
 
-describe('Bubble Sort', function () {
+describe('Quicksort', function () {
   it('sorts the arrays', function () {
     expect(quickSort([1])).toEqual([1])
     expect(quickSort([3, 4, 2, 1, 0])).toEqual([0, 1, 2, 3, 4])
