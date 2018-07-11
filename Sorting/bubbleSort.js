@@ -1,4 +1,4 @@
-import {swap} from './swap'
+const {swap} = require('./swap')
 
 const bubbleSort = (array) => {
   let isSorted = false
