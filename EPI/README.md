@@ -13,6 +13,7 @@
 10. Sorting
 11. Binary Search Trees
 12. Recursion
+    * [12.1: Tower Of Hanoi](./Recursion/towerOfHanoi.js)
 13. Dynamic Programming
 14. Greedy & Invariants
 15. Graphs
