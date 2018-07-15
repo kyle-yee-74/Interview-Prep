@@ -9,15 +9,17 @@
 
 // Time: O(n+m), Space: O(1)
 const computeIntersection = (array1, array2) => {
-  let output = new Set()
+  let output = []
   let i = 0
   let j = 0
 
   while (i < array1.length && j < array2.length) {
-    if (array1[i] < array2[j]) ++i
+    if (array1[i - 1] && array1[i] === array1[i - 1]) ++i
+    else if (array2[j - 1] && array2[j] === array2[j - 1]) ++j
+    else if (array1[i] < array2[j]) ++i
     else if (array2[j] < array1[i]) ++j
     else {
-      output.add(array1[i])
+      output.push(array1[i])
       ++i
       ++j
     }
