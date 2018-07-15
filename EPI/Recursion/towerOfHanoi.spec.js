@@ -10,9 +10,9 @@ describe(`Tower of Hanoi is a mathematical puzzle where we have three rods and n
   3) No disk may be placed on top of a smaller disk.`, function () {
 
   it('prints the movements necessary to move the stack', function () {
-    towerOfHanoi(0)
-    towerOfHanoi(1)
+    // towerOfHanoi(0)
+    // towerOfHanoi(1)
     towerOfHanoi(3)
-    towerOfHanoi(4)
+    // towerOfHanoi(4)
   })
 })
