@@ -14,6 +14,7 @@
 11. Binary Search Trees
 12. Recursion
     * [12.1: Tower Of Hanoi](./Recursion/towerOfHanoi.js)
+    * [12.2: Generate all nonattacking placements of n-Queens](./Recursion/nQueens.js)
 13. Dynamic Programming
 14. Greedy & Invariants
 15. Graphs

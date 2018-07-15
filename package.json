@@ -8,8 +8,12 @@
   "author": "",
   "license": "MIT",
   "jest": {
+    "verbose": true,
     "testPathIgnorePatterns": [
-      "/node_modules/"
+      "/node_modules/",
+      "/Other/",
+      "/Sorting/",
+      "/DataStructures/"
     ]
   },
   "dependencies": {
