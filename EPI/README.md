@@ -11,6 +11,7 @@
 8. Searching
 9. Hash Tables
 10. Sorting
+    * [10.1: Compute the intersection of two sorted arrays](./Sorting/computeIntersection.js)
 11. Binary Search Trees
 12. Recursion
     * [12.1: Tower Of Hanoi](./Recursion/towerOfHanoi.js)
