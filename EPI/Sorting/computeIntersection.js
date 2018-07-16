@@ -7,7 +7,8 @@
   output should be [5,6,8].
    */
 
-// Time: O(n+m), Space: O(1)
+// Time: O(n + m), Space: O(m)
+// n - larger array, m - smaller array
 const computeIntersection = (array1, array2) => {
   let output = []
   let i = 0
