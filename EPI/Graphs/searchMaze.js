@@ -4,7 +4,7 @@
   last index starting from the beginning of the array.
 */
 
-// Time: O(w*h) | Space: O(w+h) | w = width | h = height
+// Time: O(w+h) | Space: O(w+h) | w = width | h = height
 const searchMaze = (matrix, start, end) => {
   const currentPath = [start]
   while (currentPath.length) {
