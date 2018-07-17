@@ -22,3 +22,4 @@
 13. Dynamic Programming
 14. Greedy & Invariants
 15. Graphs
+    * [15.1: Search A Maze](./Graphs/searchMaze.js)
