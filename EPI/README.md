@@ -3,6 +3,8 @@
 1. Primitive Types
 2. Arrays
     * [6.0: Reorder Even Entries](./Arrays/reorderEven.js)
+    * [6.1: The Dutch National Flag Problem](./Arrays/dutchNationalFlag.js)
+    * [6.4: Advancing Through An Array](./Arrays/advancingThroughArray.js)
 3. Strings
 4. Linked Lists
 5. Stacks & Queues
