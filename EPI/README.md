@@ -16,6 +16,8 @@
     * [10.1: Compute the intersection of two sorted arrays](./Sorting/computeIntersection.js)
     * [10.2: Merge two sorted arrays](./Sorting/mergeSortedArrays.js)
 11. Binary Search Trees
+    * [11.1: Test if a binary tree satisfies the BST property](./Binary-Search-Trees/bstTest.js)
+    * [11.2: Find the first key greater than a given value in a BST](./Binary-Search-Trees/firstGreater.js)
 12. Recursion
     * [12.1: Tower Of Hanoi](./Recursion/towerOfHanoi.js)
     * [12.2: Generate all nonattacking placements of n-Queens](./Recursion/nQueens.js)
