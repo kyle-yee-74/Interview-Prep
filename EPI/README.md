@@ -10,6 +10,7 @@
 5. Stacks & Queues
 6. Binary Trees
     * [6.3: Compute the lowest common ancestor in a binary tree](./Binary-Trees/lowestCommonAncestor.js)
+    * [6.4: Compute the LCA when nodes have parent pointers](./Binary-Trees/LCAparent.js)
 7. Heaps
 8. Searching
 9. Hash Tables
