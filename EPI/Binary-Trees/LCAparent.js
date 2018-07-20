@@ -20,7 +20,7 @@ const lcaWithParentPointer = (node1, node2) => {
 
   node1 = node1.parent
   node2 = node2.parent
-  
+
   while (node1 !== node2) {
     node1 = node1.parent
     node2 = node2.parent

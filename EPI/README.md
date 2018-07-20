@@ -13,6 +13,7 @@
     * [6.4: Compute the LCA when nodes have parent pointers](./Binary-Trees/LCAparent.js)
 7. Heaps
 8. Searching
+    * [8.1: Search a sorted array for first occurrence of k](./Searching/firstOccurrenceK.js)
 9. Hash Tables
 10. Sorting
     * [10.1: Compute the intersection of two sorted arrays](./Sorting/computeIntersection.js)
