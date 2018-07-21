@@ -5,6 +5,7 @@
     * [2.0: Reorder Even Entries](./Arrays/reorderEven.js)
     * [2.1: The Dutch National Flag Problem](./Arrays/dutchNationalFlag.js)
     * [2.4: Advancing Through An Array](./Arrays/advancingThroughArray.js)
+    * [2.5: Delete duplicates from a sorted array](./Arrays/deleteDuplicates.js)
 3. Strings
 4. Linked Lists
 5. Stacks & Queues
