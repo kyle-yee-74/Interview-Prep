@@ -1,6 +1,7 @@
 ### Elements of Programming Interviews
 
 1. Primitive Types
+    * [1.8: Reverse digits](./Primitive-Types/reverseDigits.js)
 2. Arrays
     * [2.0: Reorder even entries](./Arrays/reorderEven.js)
     * [2.1: The Dutch national flag problem](./Arrays/dutchNationalFlag.js)
