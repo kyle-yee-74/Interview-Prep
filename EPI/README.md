@@ -9,6 +9,10 @@
     * [2.4: Advancing through an array](./Arrays/advancingThroughArray.js)
     * [2.5: Delete duplicates from a sorted array](./Arrays/deleteDuplicates.js)
 3. Strings
+    * [3.1: Interconvert strings and integers](./Strings/interconvert.js)
+    * [3.2: Base conversion](./Strings/baseConversion.js)
+    * [3.4: Replace and remove](./Strings/replaceRemove.js)
+    * [3.5: Test palindromicity](./Strings/palindromicity.js)
 4. Linked Lists
 5. Stacks & Queues
 6. Binary Trees
