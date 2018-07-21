@@ -2,9 +2,10 @@
 
 1. Primitive Types
 2. Arrays
-    * [2.0: Reorder Even Entries](./Arrays/reorderEven.js)
-    * [2.1: The Dutch National Flag Problem](./Arrays/dutchNationalFlag.js)
-    * [2.4: Advancing Through An Array](./Arrays/advancingThroughArray.js)
+    * [2.0: Reorder even entries](./Arrays/reorderEven.js)
+    * [2.1: The Dutch national flag problem](./Arrays/dutchNationalFlag.js)
+    * [2.2: Increment an arbitrary-precision integer](./Arrays/incrementInteger.js)
+    * [2.4: Advancing through an array](./Arrays/advancingThroughArray.js)
     * [2.5: Delete duplicates from a sorted array](./Arrays/deleteDuplicates.js)
 3. Strings
 4. Linked Lists
@@ -28,4 +29,4 @@
 13. Dynamic Programming
 14. Greedy & Invariants
 15. Graphs
-    * [15.1: Search A Maze](./Graphs/searchMaze.js)
+    * [15.1: Search a maze](./Graphs/searchMaze.js)
