@@ -8,6 +8,7 @@
     * [2.2: Increment an arbitrary-precision integer](./Arrays/incrementInteger.js)
     * [2.4: Advancing through an array](./Arrays/advancingThroughArray.js)
     * [2.5: Delete duplicates from a sorted array](./Arrays/deleteDuplicates.js)
+    * [2.16: The Sudoku checker problem](./Arrays/sudokuChecker.js)
 3. Strings
     * [3.1: Interconvert strings and integers](./Strings/interconvert.js)
     * [3.2: Base conversion](./Strings/baseConversion.js)
