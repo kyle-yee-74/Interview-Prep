@@ -15,6 +15,7 @@
     * [3.4: Replace and remove](./Strings/replaceRemove.js)
     * [3.5: Test palindromicity](./Strings/palindromicity.js)
 4. Linked Lists
+    * [4.1: Merge two sorted lists](./Linked-Lists/mergeLL.js)
 5. Stacks & Queues
 6. Binary Trees
     * [6.3: Compute the lowest common ancestor in a binary tree](./Binary-Trees/lowestCommonAncestor.js)
