@@ -19,8 +19,6 @@ describe(`Write a program that takes two lists, assumed to be sorted, and return
     test3 = new Node(3)
     test3.next = new Node(3)
 
-    test4 = new Node(5)
-
     result1 = new Node(3)
     result1.next = new Node(5)
     result1.next.next = new Node(10)
