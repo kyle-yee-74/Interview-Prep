@@ -17,6 +17,7 @@
 4. Linked Lists
     * [4.1: Merge two sorted lists](./Linked-Lists/mergeLL.js)
     * [4.2: Reverse a single sublist](./Linked-Lists/reverseSublist.js)
+    * [4.3: Test for cyclicity](./Linked-Lists/cyclicity.js)
 5. Stacks & Queues
 6. Binary Trees
     * [6.3: Compute the lowest common ancestor in a binary tree](./Binary-Trees/lowestCommonAncestor.js)
