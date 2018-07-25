@@ -31,4 +31,8 @@ describe(`Implement a queue API using an array for storing elements. Your API sh
     test1.enqueue(10)
     expect(test1.enqueue(9)).toEqual('The circular queue is at max capacity')
   })
+
+  it('handles underflow (notify when dequeuing from an empty queue)', function () {
+    expect(test1.dequeue()).toEqual('Cannot dequeue from an empty circular queue')
+  })
 })

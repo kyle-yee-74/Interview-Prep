@@ -23,6 +23,7 @@ class CircularQueue {
   }
   // Time: O(1)
   dequeue () {
+    if (this.currentlyStored() === 0) return 'Cannot dequeue from an empty circular queue'
     let currentValue = this.queue[this.head]
     ++this.head
     return currentValue
