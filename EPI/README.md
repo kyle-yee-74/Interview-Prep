@@ -19,6 +19,7 @@
     * [4.2: Reverse a single sublist](./Linked-Lists/reverseSublist.js)
     * [4.3: Test for cyclicity](./Linked-Lists/cyclicity.js)
     * [4.4: Test for overlapping lists - lists are cycle-free](./Linked-Lists/overlappingLists.js)
+    * [4.10: Implement even-odd merge](./Linked-Lists/evenOddMerge.js)
 5. Stacks & Queues
 6. Binary Trees
     * [6.3: Compute the lowest common ancestor in a binary tree](./Binary-Trees/lowestCommonAncestor.js)
