@@ -27,6 +27,7 @@
     * [6.1: Test if a binary tree is height-balanced](./Binary-Trees/heightBalanced.js)
     * [6.3: Compute the lowest common ancestor in a binary tree](./Binary-Trees/lowestCommonAncestor.js)
     * [6.4: Compute the LCA when nodes have parent pointers](./Binary-Trees/LCAparent.js)
+    * [6.12: Reconstruct a binary tree from traversal data](./Binary-Trees/preorderInorderConstruction.js)
 7. Heaps
 8. Searching
     * [8.1: Search a sorted array for first occurrence of k](./Searching/firstOccurrenceK.js)

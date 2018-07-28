@@ -29,7 +29,6 @@ describe(`A binary tree is said to be height-balanced if for each node in the tr
     test3.left = new Node(2)
     test3.right = new Node(3)
     test3.left.right = new Node(4)
-
   })
 
   it('it checks to see if the tree is height-balanced', function () {
