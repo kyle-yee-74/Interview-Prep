@@ -29,6 +29,7 @@
     * [6.4: Compute the LCA when nodes have parent pointers](./Binary-Trees/LCAparent.js)
     * [6.12: Reconstruct a binary tree from traversal data](./Binary-Trees/preorderInorderConstruction.js)
 7. Heaps
+    * [7.5: Compute the median of online data](./Heaps/continuousMedian.js)
 8. Searching
     * [8.1: Search a sorted array for first occurrence of k](./Searching/firstOccurrenceK.js)
 9. Hash Tables
