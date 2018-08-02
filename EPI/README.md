@@ -32,6 +32,7 @@
     * [7.5: Compute the median of online data](./Heaps/continuousMedian.js)
 8. Searching
     * [8.1: Search a sorted array for first occurrence of k](./Searching/firstOccurrenceK.js)
+    * [8.3: Search a cyclically sorted array](./Searching/cyclicallySorted.js)
 9. Hash Tables
 10. Sorting
     * [10.1: Compute the intersection of two sorted arrays](./Sorting/computeIntersection.js)
