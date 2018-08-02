@@ -4,7 +4,7 @@
   smallest element in a cyclically sorted array. Assume all elements are distinct.
 */
 
-// Time: O(n) | Space: O(n) | n = length of array
+// Time: O(log n) | Space: O(1) | n = length of array
 const cyclicallySorted = (array) => {
   let left = 0
   let right = array.length - 1
