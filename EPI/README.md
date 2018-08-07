@@ -21,6 +21,7 @@
     * [4.4: Test for overlapping lists - lists are cycle-free](./Linked-Lists/overlappingLists.js)
     * [4.10: Implement even-odd merge](./Linked-Lists/evenOddMerge.js)
 5. Stacks & Queues
+    * [5.1: Implement a stack with max API](./Stacks-Queues/maxAPI.js)
     * [5.7: Compute binary tree nodes in order of increasing depth](./Stacks-Queues/increasingDepth.js)
     * [5.8: Implement a circular queue](./Stacks-Queues/circularQueue.js)
 6. Binary Trees
