@@ -20,7 +20,7 @@ class Queue {
         this.stack2.push(this.stack1.pop())
       }
       return this.stack2.pop()
-    } else if (!this.stack1.length) {
+    } else if (!this.stack1.length && !this.stack2.length) {
       throw new Error('Cannot pop from empty queue')
     } else {
       return this.stack2.pop()
