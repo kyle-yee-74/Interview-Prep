@@ -28,6 +28,7 @@
     * [5.9: Implement a queue using stacks](./Stacks-Queues/queueStack.js)
 6. Binary Trees
     * [6.1: Test if a binary tree is height-balanced](./Binary-Trees/heightBalanced.js)
+    * [6.2: Test if a binary tree is symmetric](./Binary-Trees/isSymmetric.js)
     * [6.3: Compute the lowest common ancestor in a binary tree](./Binary-Trees/lowestCommonAncestor.js)
     * [6.4: Compute the LCA when nodes have parent pointers](./Binary-Trees/LCAparent.js)
     * [6.12: Reconstruct a binary tree from traversal data](./Binary-Trees/preorderInorderConstruction.js)
