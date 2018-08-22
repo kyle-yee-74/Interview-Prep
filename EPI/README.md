@@ -49,6 +49,7 @@
     * [12.2: Generate all nonattacking placements of n-Queens](./Recursion/nQueens.js)
 13. Dynamic Programming
     * [13.1: Count the number of score combinations](./Dynamic-Programming/scoreCombinations.js)
+    * [13.2: Compute the Levenshtein Distance](./Dynamic-Programming/levenshteinDistance.js)
 14. Greedy & Invariants
 15. Graphs
     * [15.1: Search a maze](./Graphs/searchMaze.js)
