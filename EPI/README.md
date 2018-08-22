@@ -50,6 +50,7 @@
 13. Dynamic Programming
     * [13.1: Count the number of score combinations](./Dynamic-Programming/scoreCombinations.js)
     * [13.2: Compute the Levenshtein Distance](./Dynamic-Programming/levenshteinDistance.js)
+    * [13.3: Count the number of ways to traverse a 2D array](./Dynamic-Programming/traverse2DArray.js)
 14. Greedy & Invariants
 15. Graphs
     * [15.1: Search a maze](./Graphs/searchMaze.js)
