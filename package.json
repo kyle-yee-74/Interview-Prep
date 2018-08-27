@@ -13,7 +13,8 @@
       "/node_modules/",
       "/Other/",
       "/SortingAlgos/",
-      "/DataStructures/"
+      "/DataStructures/",
+      "/EPI/"
     ]
   },
   "dependencies": {

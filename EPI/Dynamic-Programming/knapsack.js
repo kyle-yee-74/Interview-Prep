@@ -30,7 +30,7 @@ const getKnapsackItems = (knapsackValues, items) => {
   const sequence = []
   let itemIdx = knapsackValues.length - 1
   let weightIdx = knapsackValues[0].length - 1
-  
+
   while (itemIdx > 0) {
     if (knapsackValues[itemIdx][weightIdx] === knapsackValues[itemIdx - 1][weightIdx]) {
       --itemIdx
