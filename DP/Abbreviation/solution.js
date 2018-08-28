@@ -1,3 +1,4 @@
+// Time: O(n*m) | Space: O(n*m) | n = length of string 'a' | m = length of string 'b'
 const abbreviation = (a, b) => {
   const cache = []
   for (let i = 0; i < a.length + 1; ++i) {
