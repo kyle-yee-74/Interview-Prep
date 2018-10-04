@@ -52,6 +52,7 @@
     * [13.2: Compute the Levenshtein Distance](./Dynamic-Programming/levenshteinDistance.js)
     * [13.3: Count the number of ways to traverse a 2D array](./Dynamic-Programming/traverse2DArray.js)
     * [13.6: The knapsack problem](./Dynamic-Programming/knapsack.js)
+    * [Honor Class #35: Trapping water](./Graphs/TrappingWater/prompt.md)
 14. Greedy & Invariants
 15. Graphs
     * [15.1: Search a maze](./Graphs/searchMaze.js)
