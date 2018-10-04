@@ -11,3 +11,5 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
 
 ## Dynamic Programming
   * [Max Array Sum](./DP/MaxArraySum/prompt.md)
+  * [Abbreviation](./DP/Abbreviation/prompt.md)
+  * [Longest Increasing Subsequence](./DP/LongestIncreasingSubsequence/prompt.md)

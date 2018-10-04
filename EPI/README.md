@@ -55,3 +55,6 @@
 14. Greedy & Invariants
 15. Graphs
     * [15.1: Search a maze](./Graphs/searchMaze.js)
+    * [15.2: Paint a boolean matrix](./Graphs/PaintBooleanMatrix/prompt.md)
+    * [15.3: Compute an enclosed region](./Graphs/ComputeEnclosedRegion/prompt.md)
+    * [Honor Class #7: Identify positions attacked by rooks](./Graphs/IdentifyPositionsAttackedByRooks/prompt.md)
