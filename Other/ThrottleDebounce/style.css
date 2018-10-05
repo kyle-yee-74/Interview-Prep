@@ -1,0 +1,13 @@
+ body {
+   background-color: purple;
+ }
+.mouse-area {
+  background-color: orange;
+  width: 50vw;
+  height: 50vh;
+}
+
+.label {
+  display: inline-block;
+  width: 8rem;
+}
