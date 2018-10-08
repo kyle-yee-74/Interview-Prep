@@ -19,3 +19,8 @@ Javascript is formatted with ESlint and Standard for sanity, tests are run with 
   * [Evaluate Division](./Leetcode/EvaluateDivision/prompt.md)
   * [Robot Room Cleaner](./Leetcode/RobotRoomCleaner/prompt.md)
   * [Boggle Board](./Leetcode/BoggleBoard/prompt.md)
+
+  ## Famous Algorithms
+  * [Levenshtein Distance](./Other/LevenshteinDistance/prompt.md)
+  * [Kadane's Algorithm](./Other/KadaneAlgo/prompt.md)
+  * [Dijkstra's Algorithm](./Other/DijkstraAlgo/prompt.md)

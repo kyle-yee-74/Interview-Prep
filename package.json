@@ -11,10 +11,10 @@
     "verbose": true,
     "testPathIgnorePatterns": [
       "/node_modules/",
-      "/Other/",
       "/_Template",
       "/SortingAlgos/",
-      "/DataStructures/"
+      "/DataStructures/",
+      "/EPI"
     ]
   },
   "dependencies": {
